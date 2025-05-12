@@ -1,4 +1,4 @@
-# I'm Adam Fitri 👋
+# I'm Adam Fitri
 
 Transdisciplinary architect and strategic synthesist of abstracted digital ecosystems, orchestrating modular infrastructures and evolving frameworks through recursive abstraction, interpretive execution, and interoperable system design. Practitioner of structured complexity and operational ambiguity, enabling scalable, regulation-conscious continuity and the illusion of seamless cohesion across domains.
 
@@ -10,7 +10,14 @@ Transdisciplinary architect and strategic synthesist of abstracted digital ecosy
 - Failing
 - Trying again (always, very important)
 
+## Currently Learning
 
-## Appendix
+- Cloud orchestration
+- Containerization
+- The human anatomy
+- The discovery of discovery
 
-Here to make your tech feel effortlessly sophisticated.
+
+## What I did and What I'm doing
+
+Former intern in the highly regarded Malaysian Super App development initiative at Jabatan Digital Negara Malaysia (JDN), presently immersing in the refined art of computational mastery at 42KL, a pioneering nexus of self-directed, experiential learning and avant-garde software engineering paradigms, where intellectual autonomy converges with project-driven innovation to redefine the very fabric of digital craftsmanship.

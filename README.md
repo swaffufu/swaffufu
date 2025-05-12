@@ -1,6 +1,12 @@
 ## Hi there 👋
 Transdisciplinary architect and strategic synthesist of abstracted digital ecosystems, orchestrating modular infrastructures and evolving frameworks through recursive abstraction, interpretive execution, and interoperable system design. Practitioner of structured complexity and operational ambiguity, enabling scalable, regulation-conscious continuity and the illusion of seamless cohesion across institutional and civic domains.
 
+My Expertise
+Trying 
+
+Structured complexity
+
+Operational ambiguity
 <!--
 **swaffufu/swaffufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

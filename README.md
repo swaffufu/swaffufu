@@ -1,23 +1,16 @@
-## Hi there 👋
-Transdisciplinary architect and strategic synthesist of abstracted digital ecosystems, orchestrating modular infrastructures and evolving frameworks through recursive abstraction, interpretive execution, and interoperable system design. Practitioner of structured complexity and operational ambiguity, enabling scalable, regulation-conscious continuity and the illusion of seamless cohesion across institutional and civic domains.
+# I'm Adam Fitri 👋
 
-My Expertise
-Trying 
+Transdisciplinary architect and strategic synthesist of abstracted digital ecosystems, orchestrating modular infrastructures and evolving frameworks through recursive abstraction, interpretive execution, and interoperable system design. Practitioner of structured complexity and operational ambiguity, enabling scalable, regulation-conscious continuity and the illusion of seamless cohesion across domains.
 
-Structured complexity
 
-Operational ambiguity
-<!--
-**swaffufu/swaffufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Expertise 🛠
 
-Here are some ideas to get you started:
+- Trying
+- Learning
+- Failing
+- Trying again
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Appendix
+
+Here to make your tech feel effortlessly sophisticated.

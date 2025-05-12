@@ -8,7 +8,7 @@ Transdisciplinary architect and strategic synthesist of abstracted digital ecosy
 - Trying
 - Learning
 - Failing
-- Trying again
+- Trying again (always, very important)
 
 
 ## Appendix
